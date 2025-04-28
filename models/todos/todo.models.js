@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-todoSchema=new mongoose.Schema({
+const todoSchema=new mongoose.Schema({
 
 
 
