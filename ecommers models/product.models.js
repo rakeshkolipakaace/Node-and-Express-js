@@ -49,4 +49,4 @@ import mongoose from 'mongoose';
  },{timestamps:true})
 
 
- export const products=mongoose.model("Products",ProductSchema)
+ export const products=mongoose.model("Products",ProductSchema) // 19:31 video time 
